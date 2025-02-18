@@ -1,32 +1,32 @@
 # Desription
-## ŠeƒŠƒ|ƒWƒgƒŠ‚Ì“à—e‚É‚Â‚¢‚Ä
+## å„ãƒªãƒã‚¸ãƒˆãƒªã®å†…å®¹ã«ã¤ã„ã¦
 
-(1) Spring Boot HelloWorld ƒAƒvƒŠƒP[ƒVƒ‡ƒ“
+### (1) Spring Boot HelloWorld ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³
 Eclipse Project Name : hello
 GitHub Repogitory Name : 
 Local Folder : C:\_learn_repos\learn-spring-hello\hello
 
-(2) Java ƒvƒƒOƒ‰ƒ~ƒ“ƒO“ü–å 
+### (2) Java ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°å…¥é–€ 
 Eclipse Project Name : HelloJava
 GitHub Repogitory Name : 
 Local Folder : C:\_learn_repos\learn-java-hello
 
-(3) SpringSecurity g—p—á
+### (3) SpringSecurity ä½¿ç”¨ä¾‹
 Eclipse Project Name : learnspringsecurity
 GitHub Repogitory Name : 
 Local Folder : C:\_learn_repos\learn-spring-security\learnspringsecurity
 
-(4) —áuæˆø‹âsŠÇ—ƒAƒvƒŠƒP[ƒVƒ‡ƒ“v
+### (4) ä¾‹ã€Œå–å¼•éŠ€è¡Œç®¡ç†ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã€
 Eclipse Project Name : mainbank
 GitHub Repogitory Name : 
 Local Folder : C:\_learn_repos\mainbank\mainbank
 
-(5) ”F‰Â”FØÅ‰‚ÌìƒR[ƒh
+### (5) èªå¯èªè¨¼æœ€åˆã®è©¦ä½œã‚³ãƒ¼ãƒ‰
 Eclipse Project Name : ninkaninsho
 GitHub Repogitory Name : 
 Local Folder : C:\_learn\try\security\ninkaninsho
 
-(6) ƒIƒuƒWƒFƒNƒgwŒü‹Zp“ü–å ƒeƒLƒXƒgƒTƒ“ƒvƒ‹ƒR[ƒh
-Eclipse Project Name : OOTSmpleCodei’Ô‚èƒ~ƒXj
+### (6) ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆæŒ‡å‘æŠ€è¡“å…¥é–€ ãƒ†ã‚­ã‚¹ãƒˆã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰
+Eclipse Project Name : OOTSmpleCodeï¼ˆç¶´ã‚ŠãƒŸã‚¹ï¼‰
 GitHub Repogitory Name : 
 Local Folder : C:\_learn_repos\oot-docx-sample-code
