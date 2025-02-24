@@ -28,6 +28,10 @@ Local Folder : C:\_learn_repos\mainbank\mainbank
 Eclipse Project Name : ninkaninsho  
 GitHub Repogitory Name : なし  
 Local Folder : C:\_learn\try\security\ninkaninsho  
+カスタムログイン画面を使用  
+Spring Security バージョン表示のProject を含む  
+name : test  
+password : test
 
 (6) オブジェクト指向技術入門 テキストサンプルコード  
 Eclipse Project Name : OOTSmpleCode（綴りミス）  
