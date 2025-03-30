@@ -3,6 +3,7 @@
 
 (0) Description 
 このファイル
+C:\_learn_repos\Desription
 
 (1) Spring Boot HelloWorld アプリケーション  
 Eclipse Project Name : hello  
@@ -23,6 +24,7 @@ Local Folder : C:\_learn_repos\learn-spring-security\learnspringsecurity
 Eclipse Project Name : mainbank  
 GitHub Repogitory Name : murayamatooru/mainbank  
 Local Folder : C:\_learn_repos\mainbank\mainbank  
+ドキュメント（PDF生成元）：C:\_home\HP\hp\java_spring\SpringWebAppDoc.docx
 
 (5) 認可認証最初の試作コード  
 Eclipse Project Name : ninkaninsho  
