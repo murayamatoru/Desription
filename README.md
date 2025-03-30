@@ -1,9 +1,9 @@
 # Desription
 ## 各リポジトリの内容について
 
-(0) Description 
-このファイル
-C:\_learn_repos\Desription
+(0) Description  
+このファイル  
+C:\_learn_repos\Desription  
 
 (1) Spring Boot HelloWorld アプリケーション  
 Eclipse Project Name : hello  
